@@ -5,4 +5,6 @@ Demo PSCP Project HTML Template By Me.
 
 Concepts : `Retro`
 
+Support : `oniy desktop full screen`
+
 Powered By : [`TwitterBootstrap(V2.0.2)`](https://getbootstrap.com/2.0.2/)
